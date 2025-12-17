@@ -22,8 +22,8 @@ I build robots that work in the real world — from manipulator arms to mobile p
 
 ##  Featured Projects
 
-### [decentralized-mobile-manipulator](https://github.com/knowingwings/decentralized-mobile-manipulator)
-GPU-accelerated simulation framework for distributed auction-based task allocation in multi-robot systems. Implements decentralized control algorithms with provable convergence properties. Based on BEng dissertation research (First Class Honours).
+### [decentralised-mobile-manipulator](https://github.com/knowingwings/decentralized-mobile-manipulator)
+GPU-accelerated simulation framework for distributed auction-based task allocation in multi-robot systems. Implements decentralised control algorithms with provable convergence properties. Based on BEng dissertation research (First Class Honours).
 
 ### [epq-Robotic-Arm](https://github.com/knowingwings/epq-Robotic-Arm)
 6-DOF robotic arm designed for my A-Level Extended Project (A* grade). Includes custom strain wave gearing, inverse kinematics implementation, and iterative mechanical design in Fusion360.
