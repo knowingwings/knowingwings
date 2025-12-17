@@ -31,7 +31,7 @@ GPU-accelerated simulation framework for distributed auction-based task allocati
 ##  Get in Touch
 
 - **LinkedIn:** [/in/tom-le-huray](https://linkedin.com/in/tom-le-huray)
-- **Portfolio:** [tomleh.weebly.com](https://tomleh.weebly.com)
+- **Portfolio:** [tomleh.gg](https://tomleh.gg)
 
 ---
 
