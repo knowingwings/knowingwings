@@ -2,7 +2,7 @@
 
 **Mechatronics & Robotics Engineer** | MSc Robotics and Autonomous Systems @ University of Bath
 
-I build robots that work in the real world — from manipulator arms to mobile platforms. My focus is on bridging the gap between simulation and hardware, with particular interest in **robotic manipulation**, **decentralised multi-robot systems**, and **ROS2 development**.
+I build robots that work in the real world: from manipulator arms to mobile platforms. My focus is on bridging the gap between simulation and hardware, with particular interest in **robotic manipulation**, **decentralised multi-robot systems**, and **ROS2 development**.
 
 ##  Currently Working On
 
